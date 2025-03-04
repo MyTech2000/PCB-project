@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BAT54C-7-F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-06-07:34:31)
+    (mountForm default
+        (footprintRef "SOT96P240X115-3N")
+        (spec "System")
+    )
+)

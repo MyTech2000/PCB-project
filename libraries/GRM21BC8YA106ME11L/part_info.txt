@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM21BC8YA106ME11L
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.3
+Released=2023-03-07 08:56:50
+Downloaded=2025-02-13 15:35:18
+3D=Y

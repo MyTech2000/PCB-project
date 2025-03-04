@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USBD_N Pin=B9-30
+Removed Pin From Net: NetName=USBD_N Pin=B11-6
+Add Pin To Net: Unknown Pin: Pin J2-MH1
+Add Pin To Net: Unknown Pin: Pin J2-MH2
+Added Pin To Net: NetName=USBH_N Pin=B9-30
+Added Pin To Net: NetName=USBH_N Pin=B11-6
+Added Net: Name=USBH_N
+Added Differential Pair: Name=USBH

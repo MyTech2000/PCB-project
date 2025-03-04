@@ -1,0 +1,243 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "0672984090"
+   (description "Conn USB 2.0 Type A RCP 8 POS 2mm/2.5mm Solder RA Thru-Hole 8 Terminal 2 Port USB Tray")
+   (family "CON")
+   (package "0672984090-1")
+   (attribute "Datasheet Link" "https://www.molex.com/pdm_docs/sd/672984090_sd.pdf")
+   (attribute "Manufacturer_Name" "Molex")
+   (attribute "Manufacturer_Part_Number" "0672984090")
+   (attribute "Mouser Part Number" "N/A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Molex/0672984090?qs=PBcRNPEHKspievjVq0oVuQ%3D%3D")
+   (attribute "Arrow Part Number" "0672984090")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/0672984090/molex")
+   (gate
+    (symbol "0672984090")
+    (pin "A1" A1 PS)
+    (pin "A2" A2 PS)
+    (pin "A3" A3 PS)
+    (pin "A4" A4 PS)
+    (pin "B1" B1 PS)
+    (pin "B2" B2 PS)
+    (pin "B3" B3 PS)
+    (pin "B4" B4 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MH3" MH3 PS)
+    (pin "MH4" MH4 PS)
+   )
+  )
+  (symbol "0672984090"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "0672984090-1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.45 -12.99)
+      (pt 10.45 -12.99)
+      (pt 10.45 4.31)
+      (pt -3.45 4.31)
+      (pt -3.45 -12.99))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.795 5.695)
+      (pt 12.795 5.695)
+      (pt 12.795 -13.99)
+      (pt -5.795 -13.99)
+      (pt -5.795 5.695))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 4.31)
+      (pt 8.5 4.31)
+      (pt 8.5 4.31)
+      (pt -1.5 4.31)
+      (pt -1.5 4.31))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.45 0.91)
+      (pt -3.45 0.91)
+      (pt -3.45 -0.59)
+      (pt -3.45 -0.59)
+      (pt -3.45 0.91))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.45 -4.84)
+      (pt -3.45 -4.84)
+      (pt -3.45 -12.99)
+      (pt -3.45 -12.99)
+      (pt -3.45 -4.84))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.45 -12.99)
+      (pt 10.45 -12.99)
+      (pt 10.45 -12.99)
+      (pt -3.45 -12.99)
+      (pt -3.45 -12.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 10.45 -12.99)
+      (pt 10.45 -12.99)
+      (pt 10.45 -4.84)
+      (pt 10.45 -4.84)
+      (pt 10.45 -12.99))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 10.45 -0.59)
+      (pt 10.45 -0.59)
+      (pt 10.45 0.91)
+      (pt 10.45 0.91)
+      (pt 10.45 -0.59))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.1 -0)
+      (arc (pt -4.100 -0.000) (pt -4.100 -0.050) (pt -4.000 0.050) (start 180.0) (sweep 180.0))
+      (pt -4 -0)
+      (arc (pt -4.000 -0.000) (pt -4.100 -0.050) (pt -4.000 0.050) (start 180.0) (sweep .0))
+      (pt -4.1 -0)
+      (pt -4 0))))
+   (leg A1 (pt 0.000 -0.000) (padstack 0))
+   (leg A2 (pt 2.500 -0.000) (padstack 0))
+   (leg A3 (pt 4.500 -0.000) (padstack 0))
+   (leg A4 (pt 7.000 -0.000) (padstack 0))
+   (leg B1 (pt 0.000 2.620) (padstack 0))
+   (leg B2 (pt 2.500 2.620) (padstack 0))
+   (leg B3 (pt 4.500 2.620) (padstack 0))
+   (leg B4 (pt 7.000 2.620) (padstack 0))
+   (leg MH1 (pt -3.070 2.970) (padstack 9))
+   (leg MH2 (pt -3.070 -2.710) (padstack 10))
+   (leg MH3 (pt 10.070 -2.710) (padstack 11))
+   (leg MH4 (pt 10.070 2.970) (padstack 12))
+   (padstack 0
+    (hole 0.92)
+    (plated true)
+    (pad (layer TCOP) (round 1.431))
+    (pad (layer INNER) (round 1.431))
+    (pad (layer BCOP) (round 1.431))
+   )
+   (padstack 9
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 10
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 11
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+   (padstack 12
+    (hole 2.3)
+    (plated true)
+    (pad (layer TCOP) (round 3.450))
+    (pad (layer INNER) (round 3.450))
+    (pad (layer BCOP) (round 3.450))
+   )
+  )
+ )
+)

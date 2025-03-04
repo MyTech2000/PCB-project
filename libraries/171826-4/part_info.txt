@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=171826-4
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=4
+Version=2.1
+Released=2020-09-10 10:12:54
+Downloaded=2025-02-14 12:07:00
+3D=Y

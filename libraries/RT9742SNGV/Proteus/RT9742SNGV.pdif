@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RT9742SNGV"
+   (description "IC PWR SWITCH N-CHAN 1:1 SOT23-3")
+   (family "ANA")
+   (package "SOT95P279X130-3N")
+   (attribute "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9742ANGJ5F_C147955.pdf")
+   (attribute "Geometry.Height" "1.295mm")
+   (attribute "Manufacturer_Name" "RICHTEK")
+   (attribute "Manufacturer_Part_Number" "RT9742SNGV")
+   (attribute "Mouser Part Number" "835-RT9742SNGV")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Richtek/RT9742SNGV?qs=amGC7iS6iy9IuhGfX55LJA%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "RT9742SNGV")
+    (pin "VIN" 1 PS)
+    (pin "VOUT" 2 PS)
+    (pin "GND" 3 PS)
+   )
+  )
+  (symbol "RT9742SNGV"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT95P279X130-3N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.125 1.8)
+      (pt 2.125 1.8)
+      (pt 2.125 -1.8)
+      (pt -2.125 -1.8)
+      (pt -2.125 1.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 1.448)
+      (pt 0.8 1.448)
+      (pt 0.8 -1.448)
+      (pt -0.8 -1.448)
+      (pt -0.8 1.448))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.496)
+      (pt 0.152 1.448))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.275 1.448)
+      (pt 0.275 1.448)
+      (pt 0.275 -1.448)
+      (pt -0.275 -1.448)
+      (pt -0.275 1.448))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.875 1.502)
+      (pt -0.625 1.502))))
+   (leg 1 (pt -1.25 0.952) (padstack 0))
+   (leg 2 (pt -1.25 -0.952) (padstack 0))
+   (leg 3 (pt 1.25 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 1.25 0 0 0))
+   )
+   (model "RT9742SNGV.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

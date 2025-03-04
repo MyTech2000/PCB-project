@@ -1,0 +1,18 @@
+.DMP3013SFV-7 :1 ;Trans MOSFET P-CH 30V 12A 8-Pin PowerDI EP T/R
+DMP3036SFV7
+*STM IC
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN DMP3013SFV-7
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (DMP3013SFV-7)
+~!Mouser Part Number (621-DMP3013SFV-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3013SFV-7?qs=W0yvOO0ixfH1hnmiAtL1VQ%3D%3D)
+~!Arrow Part Number (DMP3013SFV-7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/dmp3013sfv-7/diodes-incorporated?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/DMP3013SFV.pdf)
+~!Height (-)
+~!3D_Model (DMP3013SFV-7)
+DMP3013SFV-7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

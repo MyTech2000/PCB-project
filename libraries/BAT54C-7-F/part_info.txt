@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=BAT54C-7-F
+PartCategory=Schottky Diode
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=5.1
+Released=2019-06-03 10:12:26
+Downloaded=2025-02-13 15:39:46
+3D=Y

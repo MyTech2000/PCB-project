@@ -1,0 +1,327 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MAGJACK-A70-112-331N126"
+   (description "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX")
+   (family "CON")
+   (package "MAGJACKA70112331N126")
+   (attribute "Datasheet Link" "http://www.link-pp.com/upload/file/20180411/20180411182938293829.pdf")
+   (attribute "Geometry.Height" "13.3mm")
+   (attribute "Manufacturer_Name" "Bel Magnetic Solutions")
+   (attribute "Manufacturer_Part_Number" "MAGJACK-A70-112-331N126")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "MAGJACK-A70-112-331N126")
+    (pin "TD1+" 1 PS)
+    (pin "TD1-" 2 PS)
+    (pin "TD2+" 3 PS)
+    (pin "TD2-_1" 4 PS)
+    (pin "TD2-_2" 5 PS)
+    (pin "TD2-_3" 6 PS)
+    (pin "TD3+" 7 PS)
+    (pin "TD3-" 8 PS)
+    (pin "TD4+" 9 PS)
+    (pin "TD4-" 10 PS)
+    (pin "VC1" 11 PS)
+    (pin "VC2" 12 PS)
+    (pin "VC3" 13 PS)
+    (pin "VC4" 14 PS)
+    (pin "GREEN_A" 15 PS)
+    (pin "GREEN_K" 16 PS)
+    (pin "YELLOW_A" 17 PS)
+    (pin "YELLOW_K" 18 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "MAGJACK-A70-112-331N126"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -1000) (pt 200 -1000) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -900) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -900) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MAGJACKA70112331N126"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.25 -19.69)
+      (pt 13.68 -19.69)
+      (pt 13.68 1.56)
+      (pt -2.25 1.56)
+      (pt -2.25 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 -7.75)
+      (pt -2.25 -7.75)
+      (pt -2.25 -19.75)
+      (pt -2.25 -19.75)
+      (pt -2.25 -7.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 -19.69)
+      (pt 13.68 -19.69)
+      (pt 13.68 -19.69)
+      (pt -2.25 -19.69)
+      (pt -2.25 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 13.68 -19.69)
+      (pt 13.68 -19.69)
+      (pt 13.68 -7.75)
+      (pt 13.68 -7.75)
+      (pt 13.68 -19.69))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 13.68 -4)
+      (pt 13.68 -4)
+      (pt 13.68 1.56)
+      (pt 13.68 1.56)
+      (pt 13.68 -4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 13.68 1.56)
+      (pt -2.25 1.56)
+      (pt -2.25 1.56)
+      (pt 13.68 1.56)
+      (pt 13.68 1.56))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 1.56)
+      (pt -2.25 1.56)
+      (pt -2.25 -4)
+      (pt -2.25 -4)
+      (pt -2.25 1.56))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.435 2.56)
+      (pt 15.865 2.56)
+      (pt 15.865 -20.75)
+      (pt -4.435 -20.75)
+      (pt -4.435 2.56))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3 0)
+      (arc (pt -3.000 0.000) (pt -3.000 -0.050) (pt -2.900 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.9 0)
+      (arc (pt -2.900 0.000) (pt -3.000 -0.050) (pt -2.900 0.050) (start 180.0) (sweep .0))
+      (pt -3 0)
+      (arc (pt -3.000 0.000) (pt -3.000 -0.050) (pt -2.900 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.9 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 1.270 -2.540) (padstack 0))
+   (leg 3 (pt 2.540 0.000) (padstack 0))
+   (leg 4 (pt 3.810 -2.540) (padstack 0))
+   (leg 5 (pt 5.080 0.000) (padstack 0))
+   (leg 6 (pt 6.350 -2.540) (padstack 0))
+   (leg 7 (pt 7.620 0.000) (padstack 0))
+   (leg 8 (pt 8.890 -2.540) (padstack 0))
+   (leg 9 (pt 10.160 0.000) (padstack 0))
+   (leg 10 (pt 11.430 -2.540) (padstack 0))
+   (leg 11 (pt 0.000 -5.060) (padstack 0))
+   (leg 12 (pt 2.540 -6.330) (padstack 0))
+   (leg 13 (pt 8.890 -6.330) (padstack 0))
+   (leg 14 (pt 11.430 -5.060) (padstack 0))
+   (leg 15 (pt -0.915 -12.950) (padstack 15))
+   (leg 16 (pt 1.625 -12.950) (padstack 16))
+   (leg 17 (pt 9.805 -12.950) (padstack 17))
+   (leg 18 (pt 12.345 -12.950) (padstack 18))
+   (leg MH1 (pt -2.160 -5.840) (padstack 19))
+   (leg MH2 (pt 13.590 -5.840) (padstack 20))
+   (leg MH3 (pt 0.000 -8.890) (padstack 21))
+   (leg MH4 (pt 11.430 -8.890) (padstack 22))
+   (padstack 0
+    (hole 0.9)
+    (plated true)
+    (pad (layer TCOP) (round 1.400))
+    (pad (layer INNER) (round 1.400))
+    (pad (layer BCOP) (round 1.400))
+   )
+   (padstack 15
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 16
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 17
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 18
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 19
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (padstack 20
+    (hole 1.7)
+    (plated true)
+    (pad (layer TCOP) (round 2.550))
+    (pad (layer INNER) (round 2.550))
+    (pad (layer BCOP) (round 2.550))
+   )
+   (padstack 21
+    (hole 3.2)
+    (plated false)
+    (pad (layer TCOP) (round 1.600))
+    (pad (layer INNER) (round 1.600))
+    (pad (layer BCOP) (round 1.600))
+   )
+   (padstack 22
+    (hole 3.2)
+    (plated false)
+    (pad (layer TCOP) (round 1.600))
+    (pad (layer INNER) (round 1.600))
+    (pad (layer BCOP) (round 1.600))
+   )
+   (model "MAGJACK-A70-112-331N126.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

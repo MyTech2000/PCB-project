@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SRN6045TA330M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SRN6045TA330M")
+        (spec "default")
+    )
+)

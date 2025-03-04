@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_4682761"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-13:14:25)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "RT9742SNGV")
+)
+
+
+(pinAssign "ECS_4682761"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-13:14:25)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "VIN") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "VOUT") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "GND") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_4682761")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RT9742SNGV")
+)
+
+
+(part "RT9742SNGV"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-22-13:14:25)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "RT9742SNGV")
+    (pinAssignRef "ECS_4682761")
+    (interface
+        (port "1" (symbPinId 1) (portName "VIN") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "VOUT") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "GND") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "IC PWR SWITCH N-CHAN 1:1 SOT23-3")
+    (property "Manufacturer_Name" "RICHTEK")
+    (property "Manufacturer_Part_Number" "RT9742SNGV")
+    (property "Mouser_Part_Number" "835-RT9742SNGV")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Richtek/RT9742SNGV?qs=amGC7iS6iy9IuhGfX55LJA%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9742ANGJ5F_C147955.pdf")
+    (property "compAreaTopHeight" 1.295)
+)
+
+

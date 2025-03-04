@@ -1,0 +1,18 @@
+.RT9742SNGV :1 ;IC PWR SWITCH N-CHAN 1:1 SOT23-3
+SOT95P279X130-3N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="VOUT" 3="GND"
+*MXP 3
+*DFN RT9742SNGV
+~!Manufacturer_Name (RICHTEK)
+~!Manufacturer_Part_Number (RT9742SNGV)
+~!Mouser Part Number (835-RT9742SNGV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Richtek/RT9742SNGV?qs=amGC7iS6iy9IuhGfX55LJA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9742ANGJ5F_C147955.pdf)
+~!Height (1.295mm)
+~!3D_Model (RT9742SNGV)
+RT9742SNGV
+1.1!U 2.1!U 3.1!U 

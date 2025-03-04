@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPD4EUSB30DQAR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.3
+Released=2019-07-31 07:51:43
+Downloaded=2025-02-14 12:11:09
+3D=Y

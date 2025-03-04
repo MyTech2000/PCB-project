@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD4EUSB30DQAR
+D Texas Instruments TPD4EUSB30DQAR, USB Controller, 6Gbit/s, USB 3.0, 10-Pin SON
+K
+F http://www.ti.com/lit/gpn/tpd4eusb30
+$ENDCMP
+#
+#End Doc Library

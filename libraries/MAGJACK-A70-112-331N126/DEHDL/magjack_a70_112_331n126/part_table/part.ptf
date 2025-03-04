@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAGJACK_A70_112_331N126'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bel Magnetic Solutions", "MAGJACK-A70-112-331N126" (!) = "", "MAGJACKA70112331N126", "Other", "", "", "", "", "1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX", "http://www.link-pp.com/upload/file/20180411/20180411182938293829.pdf", "13.3 mm"
+END_PART
+
+END.

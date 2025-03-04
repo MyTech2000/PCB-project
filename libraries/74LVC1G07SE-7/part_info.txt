@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=74LVC1G07SE-7
+PartCategory=Undefined or Miscellaneous
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=4.1
+Released=2020-11-19 05:22:42
+Downloaded=2025-02-14 12:13:16
+3D=Y

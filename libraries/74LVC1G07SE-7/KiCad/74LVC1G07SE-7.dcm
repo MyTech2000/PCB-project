@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G07SE-7
+D Buffers & Line Drivers Single Gate Open Out 1.65 to 5.5V 32mA
+K
+F https://www.diodes.com//assets/Datasheets/74LVC1G07.pdf
+$ENDCMP
+#
+#End Doc Library

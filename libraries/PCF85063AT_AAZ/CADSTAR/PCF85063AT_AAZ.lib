@@ -1,0 +1,18 @@
+.PCF85063AT_AAZ :1 ;Real Time Clock Low Power Real time clocks
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="OSCI" 2="OSCO" 3="'INT'" 4="VSS" 5="SDA" 6="SCL" 7="CLKOUT" 8="VDD"
+*MXP 8
+*DFN PCF85063AT_AAZ
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (PCF85063AT/AAZ)
+~!Mouser Part Number (771-PCF85063AT/AAZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCF85063AT-AAZ?qs=sV%252BQJnSpgu9E5WpV9lmUdg%3D%3D)
+~!Arrow Part Number (PCF85063AT/AAZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pcf85063ataaz/nxp-semiconductors?region=nac)
+~!Link Datasheet (http://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf)
+~!Height (1.75mm)
+~!3D_Model (PCF85063AT_AAZ)
+PCF85063AT_AAZ
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

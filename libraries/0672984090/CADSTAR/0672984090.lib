@@ -1,0 +1,18 @@
+.0672984090 :1 ;Conn USB 2.0 Type A RCP 8 POS 2mm/2.5mm Solder RA Thru-Hole 8 Terminal 2 Port USB Tray
+"0672984090-1"
+*STM J
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=B1 6=B2 7=B3 8=B4 9=MH1 10=MH2 11=MH3 12=MH4
+*PLB 1="A1" 2="A2" 3="A3" 4="A4" 5="B1" 6="B2" 7="B3" 8="B4" 9="MH1" 10="MH2" 11="MH3" 12="MH4"
+*MXP 12
+*DFN 0672984090
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (0672984090)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/0672984090?qs=PBcRNPEHKspievjVq0oVuQ%3D%3D)
+~!Arrow Part Number (0672984090)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/0672984090/molex)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/672984090_sd.pdf)
+~!Height (-)
+"0672984090"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

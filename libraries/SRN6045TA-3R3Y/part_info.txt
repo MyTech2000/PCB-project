@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRN6045TA-3R3Y
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=4.2
+Released=2018-03-06 14:57:46
+Downloaded=2025-02-14 12:09:11
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BAT54C_7_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "BAT54C-7-F" (!) = "", "SOT96P240X115-3N", "SOT23 (3-Pin)", "621-BAT54C-F", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BAT54C-7-F?qs=A%2FGeX6qn32NJhN9M%2F3GNcA%3D%3D", "BAT54C-7-F", "https://www.arrow.com/en/products/bat54c-7-f/diodes-incorporated?utm_currency=USD&region=nac", "DiodesZetex   ,  30V, 3 SOT-23,  +150 C", "https://www.diodes.com//assets/Datasheets/BAT54_A_C_S.pdf", "1.15 mm"
+END_PART
+
+END.

@@ -1,0 +1,18 @@
+.RT9742GGJ5 :1 ;POWER LOAD SWITCH, HIGH SIDE, TSOT-23-5; Power Load Switch Type:High Side; Input Voltage:6V; Current Limit:1.1A; On State Resistance:0.07ohm; Distribution Switch Case Style:TSOT-23; No. of Pins:5Pins; Thermal Protection:Yes; On / RoHS Compliant: Yes
+SOT94P280X100-5N
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="GND" 3="'FLG'" 4="EN/'EN'" 5="VIN"
+*MXP 5
+*DFN RT9742GGJ5
+~!Manufacturer_Name (RICHTEK)
+~!Manufacturer_Part_Number (RT9742GGJ5)
+~!Mouser Part Number (835-RT9742GGJ5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Richtek/RT9742GGJ5?qs=amGC7iS6iy%2FZU2tAnLZxIA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/RT9742GGJ5.pdf)
+~!Height (1mm)
+~!3D_Model (RT9742GGJ5)
+RT9742GGJ5
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

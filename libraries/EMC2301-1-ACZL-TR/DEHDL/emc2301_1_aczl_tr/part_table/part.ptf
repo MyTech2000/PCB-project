@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EMC2301_1_ACZL_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "EMC2301-1-ACZL-TR" (!) = "", "SOP65P490X110-8N", "Small Outline Packages", "886-EMC2301-1-ACZLTR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/EMC2301-1-ACZL-TR?qs=pA5MXup5wxFdFYiBpDRrfw%3D%3D", "EMC2301-1-ACZL-TR", "https://www.arrow.com/en/products/emc2301-1-aczl-tr/microchip-technology?region=nac", "RPM-Based PWM Fan Speed Controller MSOP8", "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562400", "1.1 mm"
+END_PART
+
+END.

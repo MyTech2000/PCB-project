@@ -1,0 +1,18 @@
+.BAT54C-7-F :1 ;DiodesZetex   ,  30V, 3 SOT-23,  +150 C
+SOT96P240X115-3N
+*STM D
+*NGS
+*PLB 1="A1" 2="A2" 3="COM_K"
+*MXP 3
+*DFN BAT54C-7-F
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (BAT54C-7-F)
+~!Mouser Part Number (621-BAT54C-F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BAT54C-7-F?qs=A%2FGeX6qn32NJhN9M%2F3GNcA%3D%3D)
+~!Arrow Part Number (BAT54C-7-F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bat54c-7-f/diodes-incorporated?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/BAT54_A_C_S.pdf)
+~!Height (1.15mm)
+~!3D_Model (BAT54C-7-F)
+BAT54C-7-F
+1.1!U 2.1!U 3.1!U 

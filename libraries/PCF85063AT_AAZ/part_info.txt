@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=PCF85063AT/AAZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2020-03-23 05:38:09
+Downloaded=2025-02-14 12:21:17
+3D=Y

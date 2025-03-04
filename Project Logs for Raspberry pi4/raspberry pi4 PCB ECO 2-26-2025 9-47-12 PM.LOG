@@ -1,0 +1,366 @@
+Change Component Description : Designator=U1 Old Description=Raspberry Pi Compute Module 4 with WiFi 2GB RAM 8GB Flash New Description=Raspberry Pi Compute Module 4 with WiFi 2GB RAM 8GB Flash | Raspberry Pi CM4102008
+Change Component Library : Designator=B5 Old Library=74LVC1G07SE-7.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B8 Old Library=74LVC1G07SE-7.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B10 Old Library=74LVC1G07SE-7.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J5 Old Library=690-005-299-043.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=BT1 Old Library=3034.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J6 Old Library=67298-4090.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B14 Old Library=AP22653W6-7.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B13 Old Library=AP64501SP-13.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D3 Old Library=BAT54C-7-F.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C2 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C10 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C11 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C22 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C23 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C24 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C25 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C27 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C28 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C29 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C30 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C31 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C32 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C36 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C37 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C38 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C39 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C40 Old Library=C2012X6S1C106K125AC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Y1 Old Library=CM7V-T1A-32.768KHZ-12.5PF-10PPM-TB-QC.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=U1 Old Library=CM4102008.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R2 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R7 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R9 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R10 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R11 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R12 Old Library=CPF0402B1K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R1 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R8 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R13 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R14 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R15 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R17 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R18 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R20 Old Library=CPF0402B12K1E1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R3 Old Library=CPF0402B470RE1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R4 Old Library=CPF0402B470RE1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=R16 Old Library=CPF0805B20RE1.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J3 Old Library=DCJ200-10-A-XX-K_REVA.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B2 Old Library=DMP3013SFV-7.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B7 Old Library=EMC2301-1-ACZL-TR.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Y2 Old Library=FOXSDLF_240F-20.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B11 Old Library=FSUSB42MUX.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C6 Old Library=GRM21BC8YA106ME11L.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D2 Old Library=LTST-S270KGKT.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D4 Old Library=LTST-S270KRKT.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J2 Old Library=MAGJACK-A70-112-331N126.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J4 Old Library=MICRO-SD-CARD.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P1 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P2 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P3 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P4 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P5 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P6 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=P7 Old Library=Miscellaneous Connectors.IntLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=D1 Old Library=MMBZ5242BLT3G.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B4 Old Library=PCF85063AT_AAZ.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B6 Old Library=RT9742GGJ5.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=L1 Old Library=SRN6045TA-3R3Y.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C20 Old Library=T543B107K006AHW025.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=C35 Old Library=T543B107K006AHW025.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=J1 Old Library=THD-20-R.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B1 Old Library=TPD4EUSB30DQAR.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B3 Old Library=TPD4EUSB30DQAR.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B12 Old Library=TPD4EUSB30DQAR.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=B9 Old Library=USB2514B-I_M2.SchLib New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=C1(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC1005X55N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1005X7R1C104M050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/C1005X7R1C104M050BC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1005X7R1C104M050BC/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CPF0805B2K7E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CPF0805B20RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1005X35N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CPF0402B2K1E1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B9-NUMBER
+Added Pin To Net: NetName=5 V Pin=C1-1
+Added Pin To Net: NetName=NetB2_4 Pin=C1-2
+Added Pin To Net: NetName=5 V Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=5 V Pin=C4-1
+Added Pin To Net: NetName=NetB2_5 Pin=C4-2
+Added Pin To Net: NetName=5 V Pin=C5-1
+Added Pin To Net: NetName=NetB4_8 Pin=C5-2
+Added Pin To Net: NetName=NetB5_2 Pin=C7-1
+Added Pin To Net: NetName=nRTC_INT Pin=C7-2
+Added Pin To Net: NetName=5 V Pin=C8-1
+Added Pin To Net: NetName=5 V Pin=C8-2
+Added Pin To Net: NetName=5 V Pin=C9-1
+Added Pin To Net: NetName=3.3 V Pin=C9-2
+Added Pin To Net: NetName=3.3 V Pin=C12-1
+Added Pin To Net: NetName=5 V Pin=C12-2
+Added Pin To Net: NetName=3.3 V Pin=C13-1
+Added Pin To Net: NetName=5 V Pin=C13-2
+Added Pin To Net: NetName=3.3 V Pin=C14-1
+Added Pin To Net: NetName=5 V Pin=C14-2
+Added Pin To Net: NetName=3.3 V Pin=C15-1
+Added Pin To Net: NetName=5 V Pin=C15-2
+Added Pin To Net: NetName=3.3 V Pin=C16-1
+Added Pin To Net: NetName=5 V Pin=C16-2
+Added Pin To Net: NetName=3.3 V Pin=C17-1
+Added Pin To Net: NetName=5 V Pin=C17-2
+Added Pin To Net: NetName=PLL Pin=C18-1
+Added Pin To Net: NetName=5 V Pin=C18-2
+Added Pin To Net: NetName=XTAL Pin=C19-1
+Added Pin To Net: NetName=5 V Pin=C19-2
+Added Pin To Net: NetName=NetB13_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetB13_5 Pin=C26-1
+Added Pin To Net: NetName=5 V Pin=C26-2
+Added Pin To Net: NetName=5 V Pin=C33-1
+Added Pin To Net: NetName=NetB13_4 Pin=C33-2
+Added Pin To Net: NetName=5 V Pin=C34-1
+Added Pin To Net: NetName=NetB13_6 Pin=C34-2
+Added Pin To Net: NetName=5 V Pin=C41-1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=3.3 V Pin=R5-1
+Added Pin To Net: NetName=GPIO_VREF Pin=R5-2
+Added Pin To Net: NetName=1.8 V Pin=R6-1
+Added Pin To Net: NetName=GPIO_VREF Pin=R6-2
+Added Pin To Net: NetName=5 V Pin=R19-1
+Added Pin To Net: NetName=NetB13_5 Pin=R19-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C3 1nf
+Added Member To Class: ClassName=Sheet1 Member=Component C4 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C7 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C9 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C12 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C13 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C14 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C15 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C16 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C17 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C18 27 PF
+Added Member To Class: ClassName=Sheet1 Member=Component C19 27 PF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C26 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C33 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C34 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component C41 100 n
+Added Member To Class: ClassName=Sheet1 Member=Component R5 2.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 2.2 k

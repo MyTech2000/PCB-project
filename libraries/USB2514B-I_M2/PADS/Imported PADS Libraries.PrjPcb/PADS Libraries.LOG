@@ -1,0 +1,46 @@
+Importer Log Report
+Project : PADS Libraries.PrjPcb
+
+Section : Library - D:\Altuim projects\Raspberry pi PCB\Raspberry pi4\libraries\USB2514B-I_M2\PADS\QFN50P600X600X100-37N-D.d
+    Section : Import Messages
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+        Warning : WARNING: Cut-out region created from PADS keep-out on layer: Top Layer
+    EndSection
+EndSection
+
+Section : Library - D:\Altuim projects\Raspberry pi PCB\Raspberry pi4\libraries\USB2514B-I_M2\PADS\USB2514B-I_M2.p
+EndSection

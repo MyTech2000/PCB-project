@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP22653W6-7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=5.1
+Released=2020-12-24 07:42:42
+Downloaded=2025-02-14 12:20:32
+3D=Y

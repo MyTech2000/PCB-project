@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPD4EUSB30DQAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "TPD4EUSB30DQAR" (!) = "", "DQA(R-PUSON-N10)", "Other", "595-TPD4EUSB30DQAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD4EUSB30DQAR?qs=Ze4%2FuFuz19JpY4uqYOLMbQ%3D%3D", "TPD4EUSB30DQAR", "https://www.arrow.com/en/products/tpd4eusb30dqar/texas-instruments?utm_currency=USD&region=nac", "Texas Instruments TPD4EUSB30DQAR, USB Controller, 6Gbit/s, USB 3.0, 10-Pin SON", "http://www.ti.com/lit/gpn/tpd4eusb30"
+END_PART
+
+END.

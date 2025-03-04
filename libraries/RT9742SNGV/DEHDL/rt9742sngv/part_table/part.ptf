@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT9742SNGV'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RICHTEK", "RT9742SNGV" (!) = "", "SOT95P279X130-3N", "SOT23 (3-Pin)", "835-RT9742SNGV", "https://www.mouser.co.uk/ProductDetail/Richtek/RT9742SNGV?qs=amGC7iS6iy9IuhGfX55LJA%3D%3D", "", "", "IC PWR SWITCH N-CHAN 1:1 SOT23-3", "https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9742ANGJ5F_C147955.pdf", "1.295 mm"
+END_PART
+
+END.

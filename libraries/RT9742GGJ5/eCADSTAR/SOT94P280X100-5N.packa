@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RT9742GGJ5"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-07-15-12:46:12)
+    (mountForm default
+        (footprintRef "SOT94P280X100-5N")
+        (spec "System")
+    )
+)

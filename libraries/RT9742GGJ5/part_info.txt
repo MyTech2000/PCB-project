@@ -1,0 +1,9 @@
+Manufacturer=RICHTEK
+PartNumber=RT9742GGJ5
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2020-11-16 04:35:01
+Downloaded=2025-02-14 12:24:12
+3D=Y

@@ -1,0 +1,57 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+BT1	Battery_Cell	https://www.keyelco.com/userAssets/file/M65p9.pdf	Battery:BatteryHolder_Keystone_3034_1x20mm	1	
+C1,C3,C4,C7,C11,C12,C13,C14,C15,C22,C23,C24,C29,C40,C46,C57,C58,C62	100n	https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf	Capacitor_SMD:C_0402_1005Metric	18	
+C2,C5,C6,C10,C17,C19,C20,C21,C30,C31,C32,C33,C47,C49,C51,C52	10u	https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71A106KA73-01.pdf	Capacitor_SMD:C_0805_2012Metric	16	
+C8,C9	27pF	https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GJM1555C1H270JB01-01.pdf	Capacitor_SMD:C_0402_1005Metric	2	
+C16,C18,C45	100uF	~	Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D	3	
+C25,C26,C27,C28,C34,C35,C37,C38,C39,C41,C42,C43,C44	10u 35v	https://www.murata.com/en-global/products/productdetail.aspx?partno=GRM21BC8YA106ME11%23	Capacitor_SMD:C_0805_2012Metric	13	
+C36	100n 100v	https://psearch.en.murata.com/capacitor/product/GRM155R62A104KE14%23.pdf	Capacitor_SMD:C_0402_1005Metric	1	
+C59,C61,C63,C65,R4,R17,R18	nf	-- mixed values --	-- mixed values --	7	
+C60,C64	1.2nF	http://www.farnell.com/datasheets/2734135.pdf?_ga=2.259347658.1738794919.1588350964-1787849031.1568210898&_gac=1.15394434.1588350964.EAIaIQobChMIgrHHs4yT6QIVxevtCh39TA_nEAAYASAAEgK8PfD_BwE	Capacitor_SMD:C_0402_1005Metric	2	
+D1	LED Red	http://optoelectronics.liteon.com/upload/download/DS22-2000-210/LTST-S270KRKT.pdf	LED_SMD:LED_0603_1608Metric	1	
+D2	LED Green	http://optoelectronics.liteon.com/upload/download/DS22-2000-226/LTST-S270KGKT.pdf	LED_SMD:LED_0603_1608Metric	1	
+D3	BAT54C-7-F	http://www.farnell.com/datasheets/2861240.pdf?_ga=2.129831176.54358802.1587372871-1787849031.1568210898&_gac=1.175311126.1587399424.EAIaIQobChMInOvF07P36AIVw7HtCh0NWwCeEAAYAyAAEgI0YfD_BwE	Package_TO_SOT_SMD:SOT-23	1	
+D4	MMBZ5242BLT3G	https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf	Diode_SMD:D_SOT-23_ANK	1	
+H1,H2,H3,H4,H5,H6,H7,H8	MountingHole	~	MountingHole:MountingHole_2.7mm_M2.5	8	
+J1,J3	Conn_01x03	~	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	2	
+J2	Conn_02x07_Odd_Even	https://www.toby.co.uk/uploads/publications/1673.pdf	Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical	1	
+J4,J5,J15,J16	Conn_01x22_Female	https://www.hirose.com/product/document?clcode=&productname=&series=FH12&documenttype=Catalog&lang=en&documentid=D31648_en	CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal	4	
+J6,J9	THD-02-R	https://www.toby.co.uk/uploads/publications/1673.pdf	Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical	2	
+J7	Micro_SD_Card_Det	https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1	CM4IO:SDCARD_MOLEX_503398-1892	1	
+J8	THD-20-R	https://www.toby.co.uk/uploads/publications/1673.pdf	Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical	1	
+J10,J22	690-019-298-412	https://www.tme.eu/Document/f15dffbcfad8545e17826f72d36911c8/206A-SEAN-R03.pdf	CM4IO:EDAC 690-019-298-412	2	
+J11	USB_OTG	https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pd	CM4IO:USB_Micro-B_EDAC_UCON00686	1	
+J12	10018783-11200TLF	https://www.mouser.co.uk/datasheet/2/18/10018783-1525093.pdf	CM4IO:PCIex1-36	1	
+J13	690-008-221-904	https://www.molex.com/pdm_docs/sd/672984090_sd.pdf	CM4IO:MOLEX_USB_67298-4090	1	
+J14	Conn_02x05_Odd_Even	https://www.toby.co.uk/uploads/publications/1673.pdf	Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical	1	
+J17	Molex 470531000	https://www.molex.com/pdm_docs/sd/470531000_sd.pdf	Connector:FanPinHeader_1x04_P2.54mm_Vertical	1	
+J19	Barrel_Jack	https://www.toby.co.uk/uploads/publications/842.pdf	CM4IO:BarrelJack_Horizontal	1	
+J20	AMP171826-4	https://www.te.com/usa-en/product-171826-4.html	171826-4:TE_171826-4	1	
+L3,L5	SRN6045TA-3R3Y	https://www.bourns.com/docs/Product-Datasheets/SRN6045TA.pdf	Inductor_SMD:L_Bourns_SRN6045TA	2	
+Module1	ComputeModule4		CM4IO:Raspberry-Pi-4-Compute-Module	1	
+Q1	DMP3013SFV-7	https://www.diodes.com/assets/Datasheets/DMP3013SFV.pdf	Package_SON:Diodes_PowerDI3333-8	1	
+R1,R10	1k	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	2	
+R2,R3	470R	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	2	
+R5	0R	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder	1	
+R6,R7,R8,R11,R28	2.2K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	5	
+R9,R22	10R	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	2	
+R12,R13,R14,R16,R21	36K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	5	
+R15,R23,R26,R27,R29	12K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	5	
+R19,R20	510K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	2	
+R24	47K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	1	
+R25	20K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	1	
+R30,R36	15K 1%	https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf	Resistor_SMD:R_0402_1005Metric	2	
+TP1,TP2,TP3,TP4,TP5,TP6	TestPoint		TestPoint:TestPoint_Pad_2.0x2.0mm	6	
+U1,U2,U4	TPD4EUSB30	http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf	Package_SON:USON-10_2.5x1.0mm_P0.5mm	3	
+U3	MagJack-A70-112-331N126	https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf	CM4IO:TRJG0926HENL	1	
+U5,U9,U14	74LVC1G07SE-7	https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf	Package_TO_SOT_SMD:SOT-353_SC-70-5	3	
+U6	USB2514B-I/M2	http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf	Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm	1	
+U7	AP22653W6	https://www.diodes.com/assets/Datasheets/AP255x.pdf	Package_TO_SOT_SMD:SOT-23-6	1	
+U8	PCF85063AT/AAZ	https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf	Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	1	
+U11	EMC2301-1-ACZL-TR	https://ww1.microchip.com/downloads/en/DeviceDoc/2301.pdf	Package_SO:MSOP-8_3x3mm_P0.65mm	1	
+U12	RT9742SNGV	https://www.richtek.com/assets/product_file/RT9742/DS9742-09.pdf	Package_TO_SOT_SMD:SOT-23	1	
+U13	FSUSB42MUX	https://www.onsemi.com/pub/Collateral/FSUSB42-D.PDF	Package_SO:MSOP-10_3x3mm_P0.5mm	1	
+U15,U16	AP64501SP-13	https://www.diodes.com/assets/Datasheets/AP64501.pdf	-- mixed values --	2	
+U18	RT9742GGJ5	https://www.richtek.com/assets/product_file/RT9742/DS9742-00.pdf	Package_TO_SOT_SMD:SOT-23-5	1	
+Y1	24MHz	~	Crystal:Crystal_SMD_HC49-SD	1	
+Y2	X32K768S301	~	Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm	1	

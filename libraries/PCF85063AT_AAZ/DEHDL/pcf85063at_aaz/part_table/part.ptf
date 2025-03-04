@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PCF85063AT_AAZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "PCF85063AT/AAZ" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "771-PCF85063AT/AAZ", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/PCF85063AT-AAZ?qs=sV%252BQJnSpgu9E5WpV9lmUdg%3D%3D", "PCF85063AT/AAZ", "https://www.arrow.com/en/products/pcf85063ataaz/nxp-semiconductors?region=nac", "Real Time Clock Low Power Real time clocks", "http://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf", "1.75 mm"
+END_PART
+
+END.

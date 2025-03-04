@@ -1,0 +1,18 @@
+.74LVC1G07SE-7 :1 ;Buffers & Line Drivers Single Gate Open Out 1.65 to 5.5V 32mA
+SOT65P210X110-5N
+*STM U
+*NGS
+*PLB 1="NC" 2="A" 3="GND" 4="Y" 5="VCC"
+*MXP 5
+*DFN 74LVC1G07SE-7
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (74LVC1G07SE-7)
+~!Mouser Part Number (621-74LVC1G07SE-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74LVC1G07SE-7?qs=abZ1nkZpTuNoZmx9wrxFdA%3D%3D)
+~!Arrow Part Number (74LVC1G07SE-7)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/74lvc1g07se-7/diodes-incorporated?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/74LVC1G07.pdf)
+~!Height (1.1mm)
+~!3D_Model (74LVC1G07SE-7)
+"74LVC1G07SE-7"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

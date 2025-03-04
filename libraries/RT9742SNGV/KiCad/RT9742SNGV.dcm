@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT9742SNGV
+D IC PWR SWITCH N-CHAN 1:1 SOT23-3
+K
+F https://datasheet.lcsc.com/szlcsc/Richtek-Tech-RT9742ANGJ5F_C147955.pdf
+$ENDCMP
+#
+#End Doc Library

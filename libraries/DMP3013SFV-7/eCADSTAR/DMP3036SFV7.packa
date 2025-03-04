@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DMP3013SFV-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-03-11:39:23)
+    (mountForm default
+        (footprintRef "DMP3036SFV7")
+        (spec "System")
+    )
+)

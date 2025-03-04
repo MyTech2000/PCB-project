@@ -1,0 +1,18 @@
+.TPD4EUSB30DQAR :1 ;Texas Instruments TPD4EUSB30DQAR, USB Controller, 6Gbit/s, USB 3.0, 10-Pin SON
+DQA_R-PUSON-N10_
+*STM IC
+*NGS
+*PLB 1="D1+" 2="D1-" 3="GND_1" 4="D2+" 5="D2-" 6="N.C._1" 7="N.C._2" 8="GND_2" 9="N.C._3" 10="N.C._4"
+*MXP 10
+*DFN TPD4EUSB30DQAR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPD4EUSB30DQAR)
+~!Mouser Part Number (595-TPD4EUSB30DQAR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD4EUSB30DQAR?qs=Ze4%2FuFuz19JpY4uqYOLMbQ%3D%3D)
+~!Arrow Part Number (TPD4EUSB30DQAR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tpd4eusb30dqar/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tpd4eusb30)
+~!Height (-)
+~!3D_Model (TPD4EUSB30DQAR)
+TPD4EUSB30DQAR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

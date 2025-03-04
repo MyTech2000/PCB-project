@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=T510X107M020ATE035
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=5.1
+Released=2022-04-30 15:21:45
+Downloaded=2025-02-13 15:27:33
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AP22653W6_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "AP22653W6-7" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "621-AP22653W6-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP22653W6-7?qs=rkhjVJ6%2F3ELFrpB7eThLLg%3D%3D", "AP22653W6-7", "null?region=asia", "Power Switch ICs - Power Distribution 1-Ch Precision Curr-Limit Load SW", "https://www.diodes.com//assets/Datasheets/AP22652_53_52A_53A.pdf", "1.45 mm"
+END_PART
+
+END.

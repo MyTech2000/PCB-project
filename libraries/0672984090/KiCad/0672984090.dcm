@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0672984090
+D Conn USB 2.0 Type A RCP 8 POS 2mm/2.5mm Solder RA Thru-Hole 8 Terminal 2 Port USB Tray
+K
+F https://www.molex.com/pdm_docs/sd/672984090_sd.pdf
+$ENDCMP
+#
+#End Doc Library

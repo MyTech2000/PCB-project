@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SD_DAT0 Pin=J4-2
+Removed Pin From Net: NetName=SD_DAT0 Pin=U1-61
+Change Component Description : Designator=U1 Old Description=Raspberry Pi Compute Module 4 with WiFi 2GB RAM 8GB Flash New Description=Raspberry Pi Compute Module 4 with WiFi 2GB RAM 8GB Flash | Raspberry Pi CM4102008
+Add Pin To Net: Unknown Pin: Pin J2-MH1
+Add Pin To Net: Unknown Pin: Pin J2-MH2
+Added Pin To Net: NetName=SD_DAT0 Pin=U1-63
+Added Pin To Net: NetName=SD_DAT3 Pin=J4-2
+Added Pin To Net: NetName=SD_DAT3 Pin=U1-61
+Added Net: Name=SD_DAT3

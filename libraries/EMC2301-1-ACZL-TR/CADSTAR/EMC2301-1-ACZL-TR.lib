@@ -1,0 +1,18 @@
+.EMC2301-1-ACZL-TR :1 ;RPM-Based PWM Fan Speed Controller MSOP8
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="SMDATA" 2="SMCLK" 3="VDD" 4="GND" 5="PWM" 6="TACH" 7="CLK" 8="ALERT#"
+*MXP 8
+*DFN EMC2301-1-ACZL-TR
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (EMC2301-1-ACZL-TR)
+~!Mouser Part Number (886-EMC2301-1-ACZLTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/EMC2301-1-ACZL-TR?qs=pA5MXup5wxFdFYiBpDRrfw%3D%3D)
+~!Arrow Part Number (EMC2301-1-ACZL-TR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/emc2301-1-aczl-tr/microchip-technology?region=nac)
+~!Link Datasheet (http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562400)
+~!Height (1.1mm)
+~!3D_Model (EMC2301-1-ACZL-TR)
+EMC2301-1-ACZL-TR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

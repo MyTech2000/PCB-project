@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=EMC2301-1-ACZL-TR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2019-06-18 03:33:39
+Downloaded=2025-02-14 12:21:54
+3D=Y

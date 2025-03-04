@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=DMP3013SFV-7
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=9
+Version=3.4
+Released=2020-11-15 20:03:58
+Downloaded=2025-02-14 12:09:51
+3D=Y

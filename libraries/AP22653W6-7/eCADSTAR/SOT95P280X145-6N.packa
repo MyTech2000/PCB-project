@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AP22653W6-7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-05-12:42:56)
+    (mountForm default
+        (footprintRef "SOT95P280X145-6N")
+        (spec "System")
+    )
+)

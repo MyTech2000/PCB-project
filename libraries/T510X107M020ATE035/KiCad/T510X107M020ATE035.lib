@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model T510X107M020ATE035
+#/1796563/1577691/2.50/2/2/Capacitor Polarised
+DEF T510X107M020ATE035 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "T510X107M020ATE035" 350 150 50 H V L CNN
+F2 "T510X" 350 50 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_T2014_T510.pdf" 350 -50 50 H I L CNN
+F4 "T510, Tantalum, MnO2 Tantalum, Multi-Anode, 100 uF, 20%, 20 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Multiple Anodes, Low ESR, 8 % , 35 mOhms, 20 uA, 430.15 mg, 7343, 4mm, Height Max = 4.3mm, 500, 156  Weeks" 350 -150 50 H I L CNN "Description"
+F5 "4.3" 350 -250 50 H I L CNN "Height"
+F6 "KEMET" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "T510X107M020ATE035" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-T510X107M20ATE35" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/KEMET/T510X107M020ATE035?qs=YJ3ou1RtrcCVdqtn0NWXig%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

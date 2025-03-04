@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_236387"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-03-10:12:26)
+    (utime 2024-06-25-08:03:56)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "BAT54C-7-F")
+)
+
+
+(pinAssign "ECS_236387"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-03-10:12:26)
+    (utime 2024-06-25-08:03:56)
+    (interface
+        (port "1" (symbPinId 1) (portName "A1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM_K") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_236387")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BAT54C-7-F")
+)
+
+
+(part "BAT54C-7-F"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-06-03-10:12:26)
+    (utime 2024-06-25-08:03:56)
+    (packageRef "BAT54C-7-F")
+    (pinAssignRef "ECS_236387")
+    (interface
+        (port "1" (symbPinId 1) (portName "A1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "COM_K") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "DiodesZetex   ,  30V, 3 SOT-23,  +150 C")
+    (property "Manufacturer_Name" "Diodes Incorporated")
+    (property "Manufacturer_Part_Number" "BAT54C-7-F")
+    (property "Mouser_Part_Number" "621-BAT54C-F")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BAT54C-7-F?qs=A%2FGeX6qn32NJhN9M%2F3GNcA%3D%3D")
+    (property "Arrow_Part_Number" "BAT54C-7-F")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/bat54c-7-f/diodes-incorporated?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://www.diodes.com//assets/Datasheets/BAT54_A_C_S.pdf")
+    (property "compAreaTopHeight" 1.15)
+)
+
+

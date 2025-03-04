@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAGJACK-A70-112-331N126"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-23-09:04:09)
+    (mountForm default
+        (footprintRef "MAGJACKA70112331N126")
+        (spec "System")
+    )
+)

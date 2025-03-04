@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0672984090'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Molex", "0672984090" (!) = "", "0672984090-1", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/Molex/0672984090?qs=PBcRNPEHKspievjVq0oVuQ%3D%3D", "0672984090", "https://www.arrow.com/en/products/0672984090/molex", "Conn USB 2.0 Type A RCP 8 POS 2mm/2.5mm Solder RA Thru-Hole 8 Terminal 2 Port USB Tray", "https://www.molex.com/pdm_docs/sd/672984090_sd.pdf"
+END_PART
+
+END.

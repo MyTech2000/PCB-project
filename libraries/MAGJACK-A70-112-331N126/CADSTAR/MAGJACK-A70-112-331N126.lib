@@ -1,0 +1,19 @@
+.MAGJACK-A70-112-331N126 :1 ;1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+MAGJACKA70112331N126
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=MH1 20=MH2
+*PLB 1="TD1+" 2="TD1-" 3="TD2+" 4="TD2-_1" 5="TD2-_2" 6="TD2-_3" 7="TD3+" 8="TD3-" 9="TD4+" 10="TD4-" 11="VC1" 12="VC2" 13="VC3" 14="VC4" 15="GREEN_A" 16="GREEN_K" 17="YELLOW_A" 18="YELLOW_K" 19="MH1" 20="MH2"
+*MXP 22
+*DFN MAGJACK-A70-112-331N126
+~!Manufacturer_Name (Bel Magnetic Solutions)
+~!Manufacturer_Part_Number (MAGJACK-A70-112-331N126)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.link-pp.com/upload/file/20180411/20180411182938293829.pdf)
+~!Height (13.3mm)
+~!3D_Model (MAGJACK-A70-112-331N126)
+MAGJACK-A70-112-331N126
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 

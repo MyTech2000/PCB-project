@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DMP3013SFV_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Diodes Incorporated", "DMP3013SFV-7" (!) = "", "DMP3036SFV7", "Other", "621-DMP3013SFV-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3013SFV-7?qs=W0yvOO0ixfH1hnmiAtL1VQ%3D%3D", "DMP3013SFV-7", "https://www.arrow.com/en/products/dmp3013sfv-7/diodes-incorporated?utm_currency=USD&region=nac", "Trans MOSFET P-CH 30V 12A 8-Pin PowerDI EP T/R", "https://www.diodes.com//assets/Datasheets/DMP3013SFV.pdf"
+END_PART
+
+END.

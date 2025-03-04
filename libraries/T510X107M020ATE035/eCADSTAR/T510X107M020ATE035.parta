@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_1796563"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-30-15:21:45)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "T510X107M020ATE035")
+)
+
+
+(pinAssign "ECS_1796563"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-30-15:21:45)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1796563")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "T510X107M020ATE035")
+)
+
+
+(part "T510X107M020ATE035"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-30-15:21:45)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "T510X107M020ATE035")
+    (pinAssignRef "ECS_1796563")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "T510, Tantalum, MnO2 Tantalum, Multi-Anode, 100 uF, 20%, 20 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Multiple Anodes, Low ESR, 8 % , 35 mOhms, 20 uA, 430.15 mg, 7343, 4mm, Height Max = 4.3mm, 500, 156  Weeks")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "T510X107M020ATE035")
+    (property "Mouser_Part_Number" "80-T510X107M20ATE35")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/T510X107M020ATE035?qs=YJ3ou1RtrcCVdqtn0NWXig%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_T2014_T510.pdf")
+    (property "compAreaTopHeight" 4.3)
+)
+
+

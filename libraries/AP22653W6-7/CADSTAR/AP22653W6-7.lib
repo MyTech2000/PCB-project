@@ -1,0 +1,18 @@
+.AP22653W6-7 :1 ;Power Switch ICs - Power Distribution 1-Ch Precision Curr-Limit Load SW
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="IN" 2="GND" 3="EN" 4="'FAULT'" 5="ILIM" 6="OUT"
+*MXP 6
+*DFN AP22653W6-7
+~!Manufacturer_Name (Diodes Incorporated)
+~!Manufacturer_Part_Number (AP22653W6-7)
+~!Mouser Part Number (621-AP22653W6-7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP22653W6-7?qs=rkhjVJ6%2F3ELFrpB7eThLLg%3D%3D)
+~!Arrow Part Number (AP22653W6-7)
+~!Link Arrow Price/Stock (null?region=asia)
+~!Link Datasheet (https://www.diodes.com//assets/Datasheets/AP22652_53_52A_53A.pdf)
+~!Height (1.45mm)
+~!3D_Model (AP22653W6-7)
+AP22653W6-7
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

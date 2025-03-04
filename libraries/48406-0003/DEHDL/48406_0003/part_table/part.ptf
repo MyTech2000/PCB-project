@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '48406_0003'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "48406-0003" (!) = "", "484060003", "Other", "538-48406-0003", "https://www.mouser.co.uk/ProductDetail/Molex/48406-0003?qs=KpdAywxU013TNkt7z6Qq8g%3D%3D", "USB Connectors USB 3.0 F/A STD RA REC STACKED 15u'", "https://www.molex.com/pdm_docs/sd/484060003_sd.pdf", "15.65 mm"
+END_PART
+
+END.

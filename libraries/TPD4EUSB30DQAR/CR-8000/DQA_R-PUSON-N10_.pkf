@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DQA_R-PUSON-N10_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DQA_R-PUSON-N10_")
+        (spec "default")
+    )
+)

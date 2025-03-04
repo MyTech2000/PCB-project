@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "T510X107M020ATE035"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-30-15:21:45)
+    (mountForm default
+        (footprintRef "T510X")
+        (spec "System")
+    )
+)

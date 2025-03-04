@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SRN6045TA-3R3Y"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-14-15:52:31)
+    (mountForm default
+        (footprintRef "SRN6045TA330M")
+        (spec "System")
+    )
+)

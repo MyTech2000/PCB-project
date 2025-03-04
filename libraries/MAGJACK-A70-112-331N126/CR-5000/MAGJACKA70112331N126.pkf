@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MAGJACKA70112331N126"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MAGJACKA70112331N126")
+        (spec "default")
+    )
+)

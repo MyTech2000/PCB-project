@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP64501SP-13
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=5.1
+Released=2020-11-08 04:34:34
+Downloaded=2025-02-14 12:23:39
+3D=Y

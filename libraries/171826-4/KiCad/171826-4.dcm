@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 171826-4
+D Body Features: Connector Profile Low | Primary Product Color Natural | Configuration Features: Number of Rows 1 | Number of Positions 4 | PCB Mount Orientation Horizontal | Contact Features: PCB Contact Termination Area Plating Material Tin | Contact Base Material Brass | Contact Mating Area Plating Material Thickness .8 MICM | Mating Square Post Dimension .64 MM | Contact Current Rating (Max) 5 AMP | Contact Mating Area Length 7.5 MM | Contact Type Pin | Mating Square Post Dimension .025 INCH | Contact Mat
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773972-5_EIS_Connectors_Brochure&DocType=Data%20Sheet&DocLang=English&PartCntxt=171826-4&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

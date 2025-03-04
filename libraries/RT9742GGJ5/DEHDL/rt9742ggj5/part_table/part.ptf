@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT9742GGJ5'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RICHTEK", "RT9742GGJ5" (!) = "", "SOT94P280X100-5N", "SOT23 (5-Pin)", "835-RT9742GGJ5", "https://www.mouser.co.uk/ProductDetail/Richtek/RT9742GGJ5?qs=amGC7iS6iy%2FZU2tAnLZxIA%3D%3D", "", "", "POWER LOAD SWITCH, HIGH SIDE, TSOT-23-5; Power Load Switch Type:High Side; Input Voltage:6V; Current Limit:1.1A; On State Resistance:0.07ohm; Distribution Switch Case Style:TSOT-23; No. of Pins:5Pins; Thermal Protection:Yes; On / RoHS Compliant: Yes", "https://componentsearchengine.com/Datasheets/2/RT9742GGJ5.pdf", "1 mm"
+END_PART
+
+END.

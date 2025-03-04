@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EMC2301-1-ACZL-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-02-22-08:51:42)
+    (mountForm default
+        (footprintRef "SOP65P490X110-8N")
+        (spec "System")
+    )
+)

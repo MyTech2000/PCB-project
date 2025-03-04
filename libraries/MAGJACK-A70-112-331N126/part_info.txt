@@ -1,0 +1,9 @@
+Manufacturer=Bel Magnetic Solutions
+PartNumber=MAGJACK-A70-112-331N126
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=1.6
+Released=2020-10-23 09:04:09
+Downloaded=2025-02-14 12:12:33
+3D=Y

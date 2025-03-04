@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'T510X107M020ATE035'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "T510X107M020ATE035" (!) = "", "T510X", "Other", "80-T510X107M20ATE35", "https://www.mouser.co.uk/ProductDetail/KEMET/T510X107M020ATE035?qs=YJ3ou1RtrcCVdqtn0NWXig%3D%3D", "", "", "T510, Tantalum, MnO2 Tantalum, Multi-Anode, 100 uF, 20%, 20 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, Multiple Anodes, Low ESR, 8 % , 35 mOhms, 20 uA, 430.15 mg, 7343, 4mm, Height Max = 4.3mm, 500, 156  Weeks", "https://content.kemet.com/datasheets/KEM_T2014_T510.pdf", "4.3 mm"
+END_PART
+
+END.
