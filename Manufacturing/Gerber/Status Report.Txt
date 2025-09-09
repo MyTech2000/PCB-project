@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Raspberry pi4.PrjPcb]
+   Generated File[raspberry pi4-RoundHoles-Plated.TXT]
+   Generated File[raspberry pi4-RoundHoles-NonPlated.TXT]
+   Generated File[raspberry pi4-SlotHoles-Plated.TXT]
+   Generated File[raspberry pi4-BoardEdgeRout.TXT]
+   Generated File[raspberry pi4.LDP]
+   Generated File[raspberry pi4.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 11:47:41 PM On 9/9/2025

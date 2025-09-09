@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\Altuim projects\Raspberry pi PCB\Raspberry pi4\raspberry pi4.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=raspberry pi4-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=raspberry pi4-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=raspberry pi4-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
