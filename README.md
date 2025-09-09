@@ -38,7 +38,7 @@ The repo is organized to make it easy for both designers and manufacturers to na
 *(Add images in the `Images/` folder and embed them here)*
 
 Example:  
-![PCB Render](Images/raspberry%20pi%204.png)
+![PCB Render](Images/raspberry_pi4.png))
 
 ---
 
