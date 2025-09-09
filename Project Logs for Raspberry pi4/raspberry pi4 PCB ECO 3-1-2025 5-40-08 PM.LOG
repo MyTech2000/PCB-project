@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=HD4_N Pin=P7-4
-Removed Pin From Net: NetName=HD4_P Pin=P7-6
-Add Pin To Net: Unknown Pin: Pin J2-MH1
-Add Pin To Net: Unknown Pin: Pin J2-MH2
-Added Pin To Net: NetName=HD4_P Pin=P7-4
-Added Pin To Net: NetName=HD4_N Pin=P7-6
